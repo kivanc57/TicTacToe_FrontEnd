@@ -1,0 +1,17 @@
+.btn{
+    margin-top: 12px;
+}
+
+.h1{
+    border: 5px solid;
+}
+
+.container-fluid{
+    background-color: #7d7775;
+    margin-bottom: 100px;
+}
+
+.col{
+    height: 150px;
+    border: 5px solid; 
+}
